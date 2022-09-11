@@ -1,5 +1,5 @@
 # chat
-Simple Asynchronous Chatroom build with Django and Channels, using websochit and asgi to handel the requests.
+Simple Asynchronous Chatroom build with Django and Channels, using webSocket and asgi to handel the requests.
 ## Build with:
 * HTML
 * CSS
